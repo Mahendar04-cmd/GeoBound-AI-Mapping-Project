@@ -5,7 +5,7 @@
 
 ## Overview  
 Hi everyone,  
-I'm **Mahendar** from Hyderabad, Telangana. I have an idea to transform how land surveys are done by combining Artificial Intelligence (AI) with popular digital map platforms like Google Maps and Apple Maps.
+I'm **Mahendar** I have an idea to transform how land surveys are done by combining Artificial Intelligence (AI) with popular digital map platforms like Google Maps and Apple Maps.
 
 ## The Problem  
 Land surveys are essential to verify property boundaries — whether it’s your home, farmland, or community land. Traditionally, this requires hiring a professional surveyor or civil engineer, which can be expensive, slow, and inaccessible to many, especially in rural areas.
@@ -54,5 +54,6 @@ This project is a concept and tool to assist land boundary visualization. It doe
 
 ---
 
-*Thank you for visiting! Together, we can empower millions to access transparent and affordable land information.*  
+I’m from Hyderabad, Telangana, and this AI + Maps land survey idea can greatly help my region. It allows people to verify land or property boundaries easily using satellite maps, without needing a surveyor. It saves time, reduces cost, and empowers common people with reliable land data access.
+
 — Mahendar
